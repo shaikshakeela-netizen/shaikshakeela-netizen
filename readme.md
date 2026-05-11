@@ -1,141 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:378add&height=200&section=header&text=Shakeela%20Shaik&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20BI%20Developer&descSize=18&descAlignY=58&descColor=e1f5ee" alt="Header Banner" />
+# Shakeela Shaik
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeela-shaik-b75b06326/)
-[![Email](https://img.shields.io/badge/Email-shaikshakeela004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikshakeela004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Open%20to-Work-1D9E75?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+### Data Analyst &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Business Intelligence
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakeela-shaik-b75b06326/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikshakeela004@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat-square)](https://www.linkedin.com/in/shakeela-shaik-b75b06326/)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a **Data Analyst** based in India with **1+ years of hands-on experience** turning raw, messy data into clean, actionable business intelligence. I thrive at the intersection of **analytics, machine learning, and storytelling** — whether that's building a predictive fraud detection model, designing a KPI dashboard in Power BI, or automating reporting pipelines end-to-end.
+I'm a Data Analyst with 1+ year of hands-on experience turning raw, messy data into clean, actionable business intelligence. I work across the full analytics lifecycle — from data collection and cleaning through to machine learning models, dashboards, and stakeholder reporting.
 
-What drives me: making data *speak clearly* to decision-makers.
+What drives me: making data speak clearly to decision-makers.
 
-```text
-🔍  Specialty     →  End-to-end Data Analysis & ML Modeling
-📊  Strength      →  Turning messy data into strategic insight
-🛠️  Stack         →  Python · SQL · Power BI · Scikit-learn · Streamlit
-🌱  Currently     →  Deepening expertise in MLOps & Advanced Analytics
-💬  Open to       →  Data Analytics · ML Engineering · BI Development roles
-```
-
----
-
-## 🧰 Tech Stack
-
-### Languages & Query
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Data Analysis & Processing
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-exploratory%20analysis-1D9E75?style=flat-square)
-
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-### Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-imbalanced%20data-coral?style=flat-square)
-
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+| | |
+|---|---|
+| Specialty | End-to-end data analysis and ML modeling |
+| Core strength | Translating messy data into strategic insight |
+| Stack | Python · SQL · Power BI · Scikit-learn · Streamlit |
+| Currently | Deepening expertise in MLOps and advanced analytics |
+| Open to | Data Analytics · ML Engineering · BI Development |
 
 ---
 
-## 🚀 Featured Projects
+## Skills
 
-### 🔍 Credit Card Fraud Detection System
-> **End-to-end ML pipeline for real-time fraud classification**
+### Languages and Query
 
-- Built a classification model using **Logistic Regression** and **Random Forest** on a highly imbalanced dataset
-- Applied **SMOTE** for oversampling, achieving significant improvement in recall for the minority class
-- Evaluated performance using **Precision, Recall, F1-Score, and ROC-AUC**
-- Deployed as an interactive **Streamlit app** for live predictions
+Python (Pandas, NumPy, Scikit-learn) &nbsp;·&nbsp; SQL (Joins, CTEs, Window Functions, Subqueries)
+
+### Data Analysis and Processing
+
+Exploratory Data Analysis (EDA) &nbsp;·&nbsp; Data Cleaning and Preprocessing &nbsp;·&nbsp; Data Validation &nbsp;·&nbsp; Handling Large and Multi-source Datasets (CSV, JSON, TXT)
+
+### Visualization and Reporting
+
+Matplotlib &nbsp;·&nbsp; Seaborn &nbsp;·&nbsp; Plotly &nbsp;·&nbsp; Interactive Dashboard Development &nbsp;·&nbsp; Business Reporting
+
+### Business Intelligence
+
+Power BI (KPI Dashboards, Reports) &nbsp;·&nbsp; Advanced Excel (Pivot Tables, Power Query, INDEX-MATCH) &nbsp;·&nbsp; MIS Reporting and Performance Tracking
+
+### Machine Learning and Statistics
+
+Linear Regression &nbsp;·&nbsp; Logistic Regression &nbsp;·&nbsp; Random Forest &nbsp;·&nbsp; Model Evaluation and Optimization &nbsp;·&nbsp; Handling Imbalanced Data (SMOTE) &nbsp;·&nbsp; Hypothesis Testing
+
+### Tools and Platforms
+
+Git and GitHub &nbsp;·&nbsp; Jupyter Notebook &nbsp;·&nbsp; Google Colab &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Streamlit &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Flask
+
+---
+
+## Featured Projects
+
+### Credit Card Fraud Detection System
+
+End-to-end ML pipeline for real-time fraud classification on a highly imbalanced dataset.
+
+- Built classification models using Logistic Regression and Random Forest
+- Applied SMOTE oversampling, significantly improving recall on the minority class
+- Evaluated performance using Precision, Recall, F1-Score, and ROC-AUC
+- Deployed as a live Streamlit app for interactive predictions
 
 `Python` `Scikit-learn` `SMOTE` `Streamlit` `Pandas` `Matplotlib`
 
 ---
 
-### 📊 Sales Performance Dashboard
-> **Interactive Power BI dashboard for business decision-making**
+### Sales Performance Dashboard
 
-- Designed multi-page KPI dashboards tracking revenue, product performance, and regional trends
-- Integrated **Power Query** for data cleaning and transformation from multiple source files
-- Built **DAX measures** for dynamic filtering, YoY comparisons, and target-vs-actual analysis
+Multi-page Power BI dashboard designed for business decision-making.
+
+- Tracked revenue, product performance, and regional trends via KPI dashboards
+- Used Power Query for multi-source data cleaning and transformation
+- Built DAX measures for dynamic filtering, YoY comparisons, and target vs. actual analysis
 
 `Power BI` `DAX` `Power Query` `Advanced Excel` `MIS Reporting`
 
 ---
 
-### 👥 Customer Segmentation Analysis
-> **Behavioral clustering to support targeted marketing strategy**
+### Customer Segmentation Analysis
 
-- Conducted full **EDA** on customer transaction and demographic data
-- Applied clustering techniques to identify high-value and at-risk customer segments
-- Delivered visual reports with business recommendations for each segment
+Behavioral clustering to support targeted marketing strategy.
 
-`Python` `Pandas` `Seaborn` `Plotly` `EDA` `Scikit-learn`
+- Conducted full EDA on customer transaction and demographic data
+- Applied clustering to identify high-value and at-risk customer segments
+- Delivered visual reports with business recommendations per segment
 
----
-
-## 🎓 Certifications
-
-| Certificate | Issuer | Focus Area |
-|---|---|---|
-| 🏅 Machine Learning Using Python | NPTEL | Supervised/Unsupervised ML |
-| 🏅 Data Visualization | TATA (Forage) | Business Storytelling |
-| 🏅 AI & Data Science | UpGrad | Applied AI |
-| 🏅 Generative AI | Microsoft & IBM | LLMs & GenAI Applications |
+`Python` `Pandas` `Seaborn` `Plotly` `Scikit-learn`
 
 ---
 
-## 📈 Core Competencies
+## Certifications
 
-```
-✅  Exploratory Data Analysis (EDA)           ✅  Model Building & Evaluation
-✅  Data Cleaning & Preprocessing              ✅  Handling Imbalanced Datasets (SMOTE)
-✅  SQL — Joins, CTEs, Window Functions        ✅  Statistical Analysis & Hypothesis Testing
-✅  KPI Dashboard Development (Power BI)       ✅  Business Reporting & MIS Tracking
-✅  Data Pipeline & Automation Workflows       ✅  Stakeholder Communication
-```
-
----
-
-## 📫 Let's Connect
-
-I'm actively open to roles in **Data Analytics, Machine Learning, and Business Intelligence.**
-
-<div align="center">
-
-| Platform | Link |
+| Certificate | Issuer |
 |---|---|
-| 💼 LinkedIn | [shakeela-shaik-b75b06326](https://www.linkedin.com/in/shakeela-shaik-b75b06326/) |
-| 📧 Email | shaikshakeela004@gmail.com |
+| Machine Learning Using Python | NPTEL |
+| Data Visualization | TATA (Forage) |
+| AI and Data Science | UpGrad |
+| Generative AI | Microsoft and IBM |
 
-</div>
+---
+
+## Core Competencies
+
+- Exploratory Data Analysis and Statistical Reporting
+- Data Cleaning, Validation, and Pipeline Automation
+- Machine Learning Model Building and Evaluation
+- KPI Dashboard Development in Power BI
+- SQL — Joins, CTEs, Window Functions, Aggregations
+- Stakeholder Communication and Business Insight Generation
+
+---
+
+## Connect
+
+Actively open to roles in Data Analytics, Machine Learning, and Business Intelligence.
+
+LinkedIn: [shakeela-shaik-b75b06326](https://www.linkedin.com/in/shakeela-shaik-b75b06326/)
+
+Email: shaikshakeela004@gmail.com
 
 ---
 
 <div align="center">
-
-*"Data is not just numbers — it's the story of every decision waiting to be made."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378add,100:0f6e56&height=100&section=footer" alt="Footer Banner"/>
-
+<sub>Data is not just numbers — it is the story of every decision waiting to be made.</sub>
 </div>
