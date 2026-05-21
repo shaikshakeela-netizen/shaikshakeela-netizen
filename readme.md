@@ -1,222 +1,263 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2563EB,100:0EA5E9&height=220&section=header&text=Shakeela%20Shaik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Machine%20Learning%20Engineer%20|%20BI%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=280&section=header&text=Shakeela%20Shaik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20•%20Data%20Engineering%20•%20Machine%20Learning&descAlignY=58"/>
 
-# Data Analyst • Machine Learning Enthusiast • BI Developer
+# 👋 Hello, I'm Shakeela Shaik
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Transforming+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+Data-Driven+Solutions+for+Better+Decisions"/>
+### 🚀 Data Analyst | BI Developer | Data Engineering Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Transforming+Complex+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+ETL+Pipelines+%26+Analytics+Solutions;Passionate+About+Data+Engineering+%26+AI"/>
+
+<br>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄 Resume-Download-111827?style=for-the-badge"/>
+</a>
+
+<a href="mailto:Shaikshakeela004@gmail.com">
+<img src="https://img.shields.io/badge/📧 Contact_Me-EA4335?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shaikshakeela-netizen&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👩‍💻 Professional Summary
+# 💫 About Me
 
-```yaml
-Name: Shakeela Shaik
+💡 Data Analyst with experience in **Python, SQL, Power BI, ETL Pipelines, Machine Learning, and Business Intelligence**
 
-Core Expertise:
-  - Data Analysis & Visualization
-  - Machine Learning
-  - Dashboard Development
-  - Business Intelligence
-  - Data Cleaning & Preprocessing
+📊 Skilled in:
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Workflow Automation
+- Data Engineering Pipelines
+- Predictive Analytics
 
-Tools & Technologies:
-  - Python
-  - SQL
-  - Power BI
-  - Excel
-  - Scikit-learn
-```
+⚡ Passionate about solving real-world business problems using data-driven solutions.
 
 ---
 
-# 💼 Technical Skills
+# 🚀 Professional Highlights
 
-<table>
-<tr>
+<div align="center">
 
-<td width="33%">
+| 📌 Experience | 📊 Data Processed | 🚀 Projects | 🧠 LeetCode |
+|---|---|---|---|
+| 1+ Year | 100K+ Records | 4+ End-to-End Projects | 90+ Problems |
 
-## 💻 Programming
-
-- Python
-- SQL
-- OOP Concepts
-- Problem Solving
-
-</td>
-
-<td width="33%">
-
-## 📊 Data Analytics
-
-- Pandas
-- NumPy
-- Exploratory Data Analysis
-- Data Cleaning
-
-</td>
-
-<td width="33%">
-
-## 📈 Visualization
-
-- Power BI
-- Plotly
-- Matplotlib
-- Seaborn
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-<table>
-<tr>
+# ⚡ Tech Stack
 
-<td width="33%">
+<div align="center">
 
-## 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,fastapi,streamlit"/>
 
-- Scikit-learn
-- Logistic Regression
-- Random Forest
-- SMOTE
+<br><br>
 
-</td>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Engineering-0284C7?style=for-the-badge"/>
 
-<td width="33%">
+</div>
 
-## ⚙️ Development Tools
+---
 
-- Streamlit
-- FastAPI
-- Git & GitHub
-- VS Code
+# 📊 GitHub Analytics
 
-</td>
+<div align="center">
 
-<td width="33%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaikshakeela-netizen&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📋 BI & Reporting
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikshakeela-netizen&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- DAX
-- KPI Reporting
-- Excel Dashboards
-- Power Query
+</div>
 
-</td>
+<div align="center">
 
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikshakeela-netizen&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🚀 Data Engineering & Big Data Specialist — BlackBucks
+
+📅 Oct 2025 – Apr 2026
+
+✔ Processed **100K+ records** using Python & SQL  
+✔ Built optimized ETL pipelines improving runtime by **20–30%**  
+✔ Performed SQL optimization & EDA for business insights  
+✔ Applied data warehousing & data modeling concepts  
+
+---
+
+## 🤖 Data Analyst (Generative AI & NLP) — SmartInternz
+
+📅 May 2025 – Jul 2025
+
+✔ Analyzed structured & text datasets using Python & SQL  
+✔ Applied NLP techniques for text analytics  
+✔ Leveraged IBM Cloud AI APIs  
+✔ Performed data cleaning & exploratory analysis  
+
+---
+
+## 🐍 Python Developer — DVSoft
+
+📅 Dec 2024 – Apr 2025
+
+✔ Developed modular Python scripts for analytics workflows  
+✔ Built ETL pipelines using Python & SQL  
+✔ Automated preprocessing workflows  
+✔ Improved retrieval efficiency & data consistency  
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+---
 
-<td width="50%">
+## 💳 Credit Card Fraud Detection & Real-Time Risk Analysis
 
-## 💳 Credit Card Fraud Detection
+<img src="YOUR_PROJECT_SCREENSHOT_LINK"/>
 
-Developed an end-to-end machine learning solution to identify fraudulent transactions using imbalanced financial datasets.
+### 🔹 Key Highlights
 
-### Key Highlights
-- Applied SMOTE for imbalance handling
-- Built predictive ML models
-- Streamlit-based deployment
-- Evaluated using ROC-AUC & Recall metrics
+✔ Built Random Forest & Logistic Regression models  
+✔ Applied SMOTE for imbalance handling  
+✔ Developed real-time Streamlit dashboard  
+✔ Improved minority class recall significantly  
 
-### Tech Stack
-`Python` `Scikit-learn` `SMOTE` `Streamlit`
+### 🛠 Tech Stack
 
-</td>
+`Python` `Pandas` `Scikit-learn` `Streamlit`
 
-<td width="50%">
+### 🔗 Links
 
-## 📈 Sales Performance Dashboard
+<a href="YOUR_GITHUB_PROJECT_LINK">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Designed an interactive Power BI dashboard for tracking sales KPIs and regional business performance.
+<a href="YOUR_LIVE_PROJECT_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge"/>
+</a>
 
-### Key Highlights
-- KPI monitoring dashboards
-- DAX-based calculations
-- Interactive visual reports
-- Automated reporting workflows
+---
 
-### Tech Stack
-`Power BI` `DAX` `Excel`
+## 📊 Insurance Risk & Claims Analysis
 
-</td>
+<img src="YOUR_PROJECT_SCREENSHOT_LINK"/>
 
-</tr>
+### 🔹 Key Highlights
 
-<tr>
+✔ Developed Power BI dashboard using 30K+ records  
+✔ Identified high-risk customer segments  
+✔ Automated reporting workflows  
+✔ Reduced manual reporting effort by 30%  
 
-<td width="50%">
+### 🛠 Tech Stack
 
-## 👥 Customer Segmentation Analysis
+`Power BI` `DAX` `Power Query` `Excel`
 
-Performed customer behavior analysis using clustering techniques to identify high-value customer groups.
+### 🔗 Links
 
-### Key Highlights
-- Customer segmentation
-- Visual analytics
-- Business recommendations
-- Data storytelling approach
+<a href="YOUR_GITHUB_PROJECT_LINK">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### Tech Stack
-`Pandas` `Plotly` `Scikit-learn`
+---
 
-</td>
+## 🍔 Swiggy Sales & Customer Insights Analysis
 
-<td width="50%">
+<img src="YOUR_PROJECT_SCREENSHOT_LINK"/>
 
-## 🤖 Data Analytics & ML Solutions
+### 🔹 Key Highlights
 
-Worked on predictive analytics and reporting automation projects using Python and SQL.
+✔ Optimized peak-hour operational insights  
+✔ Improved regional marketing strategies  
+✔ Enhanced customer retention analysis  
+✔ Delivered actionable business recommendations  
 
-### Key Highlights
-- Data preprocessing pipelines
-- Predictive modeling
-- Reporting automation
-- Insight generation
+### 🛠 Tech Stack
 
-### Tech Stack
-`Python` `SQL` `Power BI`
+`Excel` `Pivot Tables` `Data Cleaning`
 
-</td>
+### 🔗 Links
 
-</tr>
-</table>
+<a href="YOUR_GITHUB_PROJECT_LINK">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
 
-
+---
 
 # 🏆 Certifications
 
-<table>
-<tr>
+<div align="center">
 
-<td>🏅 Machine Learning Using Python — NPTEL</td>
+| Certification | Platform |
+|---|---|
+| 🏅 Machine Learning Using Python | NPTEL |
+| 🏅 Data Visualization | TATA Forage |
+| 🏅 AI & Data Science | UpGrad |
+| 🏅 Generative AI | Microsoft & IBM |
 
-<td>🏅 Data Visualization — TATA Forage</td>
+</div>
 
-</tr>
+---
 
-<tr>
+# 🏅 Achievements
 
-<td>🏅 AI & Data Science — UpGrad</td>
+✔ Solved **90+ LeetCode problems** using Python & SQL  
 
-<td>🏅 Generative AI — Microsoft & IBM</td>
+✔ Completed **3 internships** in:
+- Data Analytics
+- NLP
+- Python Development
 
-</tr>
-</table>
+✔ Built **4+ end-to-end projects** using:
+- Machine Learning
+- Power BI
+- Streamlit
+- Python
+
+✔ Earned **Elite NPTEL Certification** in Machine Learning
+
+---
+
+# 📌 Current Focus
+
+```yaml
+Learning:
+  - Advanced Machine Learning
+  - Deep Learning
+  - Data Engineering
+  - Generative AI
+
+Building:
+  - ETL Automation Pipelines
+  - Real-Time Analytics Systems
+  - Business Intelligence Dashboards
+  - ML-Powered Applications
+```
 
 ---
 
@@ -224,21 +265,29 @@ Worked on predictive analytics and reporting automation projects using Python an
 
 <div align="center">
 
+<a href="mailto:Shaikshakeela004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/shakeela-shaik-b75b06326/">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shaikshakeela004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/shaikshakeela-netizen">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shaikshakeela/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
 
 
 
-<div align="center">
 
-### “Turning data into meaningful business decisions.”
+## ✨ “Turning Data Into Business Impact.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
-
